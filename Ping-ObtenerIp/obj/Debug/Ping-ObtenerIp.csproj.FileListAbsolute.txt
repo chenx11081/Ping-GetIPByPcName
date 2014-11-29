@@ -1,0 +1,9 @@
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\bin\Debug\Ping-ObtenerIp.exe.config
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\bin\Debug\Ping-ObtenerIp.exe
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\bin\Debug\Ping-ObtenerIp.pdb
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\obj\Debug\Ping-ObtenerIp.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\obj\Debug\Ping_ObtenerIp.Form1.resources
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\obj\Debug\Ping_ObtenerIp.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\obj\Debug\Ping-ObtenerIp.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\obj\Debug\Ping-ObtenerIp.exe
+c:\users\francisco\documents\visual studio 2012\Projects\Ping-ObtenerIp\Ping-ObtenerIp\obj\Debug\Ping-ObtenerIp.pdb
